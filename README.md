@@ -2,7 +2,7 @@
 
 API construída com Node.js + Express.
 
-## 🚀 Como rodar localmente
+## Como rodar localmente
 
 1. Instale as dependências:
 
